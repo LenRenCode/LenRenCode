@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Halo%2C+Saya+Ahmad+Surya+Ramadan!;Backend+%26+Database+Enthusiast;Node.js+%2F+JavaScript+Lover+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Halo%2C+Saya+LinRen+Code!;Backend+%26+Database+Enthusiast;Node.js+%2F+JavaScript+Lover+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
