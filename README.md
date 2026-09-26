@@ -12,6 +12,8 @@
 
 - 🎓 Mahasiswa yang sedang menekuni dunia **Backend Development**
 - 🧠 Fokus utama di **Database** & **Node.js / JavaScript**
+- 🗄️ Terbiasa pakai berbagai jenis database — MySQL, PostgreSQL, Supabase, SQLite, atau SQL lainnya
+- 🐍 Python (~70%)
 - 🔍 Lebih suka Node.js & JavaScript karena konsepnya terasa lebih mudah dipahami
 - 🎂 19 tahun &nbsp;|&nbsp; 👨 Laki-laki
 - 🌱 Selalu belajar hal baru seputar backend & pengolahan data
@@ -22,7 +24,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,mysql,postgres,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,py,mysql,postgres,mongodb,supabase,sqlite,git,github,vscode" />
 </p>
 
 ---
