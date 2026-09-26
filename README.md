@@ -102,7 +102,6 @@ Diambil langsung dari repo publik saya:
   <img src="https://raw.githubusercontent.com/LenRenCode/LenRenCode/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
 
-> 🐍 Animasi ular di atas baru muncul setelah kamu tambahkan workflow `snake.yml` (disertakan di paket ini) dan Action-nya jalan minimal sekali.
 
 ---
 
