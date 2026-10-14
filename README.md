@@ -23,9 +23,9 @@
 **⚡ guest@lenrencode ~ % whoami --verbose**
 ```
 [=================== LENRENCODE // STATUS ===================]
- Nama          : Ahmad Surya Ramadan (LenRenCode)
+ Nama          : (LenRenCode)
  Status        : Mahasiswa
- Umur / Gender : 19 tahun / Laki-laki
+ Umur / Gender : 19 tahun / Unknown
  Fokus Utama   : Backend Development & Database Design
  Bahasa Utama  : Node.js, JavaScript
  Sedang Belajar: Python (~70%)
