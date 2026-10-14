@@ -6,21 +6,18 @@
 
 ---
 
-### 👤 `whoami`
+### 👤 `whoami --details`
 
-Seorang mahasiswa berusia 19 tahun yang lebih suka berkutat di balik layar (*backend*) dan merancang struktur data. Moto ngoding: *"Kalau ngoding, urusan database duluan yang beres."*
+Mahasiswa berusia 19 tahun yang lebih suka berkutat di balik layar (*backend*) dan merancang struktur data. Moto ngoding: *"Kalau ngoding, urusan database duluan yang beres."*
 
 ```javascript
 const lenRenCode = {
   status: "Active Undergraduate Student",
   focus: ["Backend Development", "Database Architecture"],
-  stack: {
-    core: ["Node.js", "JavaScript"],
-    learning: ["Python (70%)", "C++"],
-    databases: ["MySQL", "PostgreSQL", "Supabase", "SQLite"]
-  },
+  bootcamps: [
+    "RevoU Software Engineering (2026)", 
+    "Dicoding AI Full-Stack Developer (2026)"
+  ],
   environment: "Arch Linux + Hyprland",
-  music_vibe: ["Vocaloid", "Leo/need (Project SEKAI)"]
+  music_vibe: ["Vocaloid (Len Kagamine)", "Leo/need", "Vivid BAD SQUAD"]
 };
-
-console.log("Always learning, always building.");
