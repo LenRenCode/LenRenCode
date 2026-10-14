@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:39C5BB&height=180&section=header&text=LenRenCode&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Database%20Enthusiast" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:39C5BB&height=180&section=header&text=LenRenCode&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20and%20Database%20Enthusiast" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/LenRenCode">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=System+Initialize...;Hello,+I'm+LenRenCode!;Backend+%26+Database+Enthusiast;Arch+Linux+User;Vocaloid+%26+Leo%2Fneed+Enjoyer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=System+Initialize...;Hello,+I'm+LenRenCode!;Backend+and+Database+Enthusiast;Arch+Linux+User;Vocaloid+and+Leo%2Fneed+Enjoyer" alt="Typing SVG" />
   </a>
 </p>
 
