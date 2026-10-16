@@ -75,6 +75,14 @@ Fokus belajarku adalah memahami tiap lapisan—bukan hanya membuat endpoint berj
 
 Musik yang menemani waktu santai maupun sesi ngulik:
 
+<div align="center">
+
+<img src="./assets/music-card.svg" width="420" alt="Kartu lagu statis dengan waktu tersisa" />
+
+</div>
+
+> Kartu ini statis dan tidak memakai koneksi realtime. Untuk mengganti lagu atau hitung mundurnya, edit teks `TRACK`, `ARTIST`, dan `TIME LEFT` di [`assets/music-card.svg`](./assets/music-card.svg). Nilai waktu tersisa tidak berkurang otomatis.
+
 - 🎤 **Vocaloid** — lagu-lagu Vocaloid jadi salah satu favorit untuk didengarkan.
 - 🎶 **Smile*syphony** — salah satu yang sering masuk playlist.
 
