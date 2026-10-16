@@ -81,8 +81,6 @@ Musik yang menemani waktu santai maupun sesi ngulik:
 
 </div>
 
-> Kartu ini statis dan tidak memakai koneksi realtime. Untuk mengganti lagu atau waktunya, edit teks judul lagu, artis, dan `TIME LEFT` di [`assets/music-card.svg`](./assets/music-card.svg). Angka `03:26` adalah durasi lagu dari gambar; tampilan waktu tidak berkurang otomatis.
-
 - 🎤 **Vocaloid** — lagu-lagu Vocaloid jadi salah satu favorit untuk didengarkan.
 - 🎶 **Smile*Symphony** — salah satu yang sering masuk playlist.
 
