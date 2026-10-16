@@ -17,12 +17,11 @@
   <circle cx="150" cy="150" r="12" fill="#00d9ff"/>
   <path d="M140 116v55a20 20 0 1 1-10-17v-53l62-13v67a20 20 0 1 1-10-17v-63z" fill="url(#accent)" transform="translate(8 0) scale(.82) translate(32 32)"/>
   <text x="310" y="68" fill="#39c5bb" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3">STATIC NOW PLAYING</text>
-  <text x="310" y="125" fill="#f0fbff" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">Your song title</text>
-  <text x="310" y="163" fill="#a8c2cc" font-family="Segoe UI,Arial,sans-serif" font-size="21">Artist name</text>
+  <text x="310" y="125" fill="#f0fbff" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">Smile*Symphony</text>
+  <text x="310" y="163" fill="#a8c2cc" font-family="Segoe UI,Arial,sans-serif" font-size="21">Wonderlands×Showtime</text>
   <text x="310" y="216" fill="#8aa5af" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">TIME LEFT</text>
-  <text x="310" y="257" fill="#00d9ff" font-family="Consolas,monospace" font-size="34" font-weight="700">02:48</text>
+  <text x="310" y="257" fill="#00d9ff" font-family="Consolas,monospace" font-size="34" font-weight="700">03:26</text>
   <text x="482" y="255" fill="#8aa5af" font-family="Segoe UI,Arial,sans-serif" font-size="14">remaining</text>
   <rect x="610" y="214" width="190" height="8" rx="4" fill="#29434c"/>
-  <rect x="610" y="214" width="78" height="8" rx="4" fill="url(#accent)"/>
-  <text x="610" y="247" fill="#8aa5af" font-family="Segoe UI,Arial,sans-serif" font-size="12">STATIC COUNTDOWN</text>
+  <text x="610" y="247" fill="#8aa5af" font-family="Segoe UI,Arial,sans-serif" font-size="12">MANUAL · NO LIVE DATA</text>
 </svg>
